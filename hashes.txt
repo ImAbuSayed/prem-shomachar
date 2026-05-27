@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Prem Shomachar
+
+This log tracks the cryptographic history and versioning for the song **Prem Shomachar** (prem-shomachar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:13:43.174356 | `v1` | `a0f462f1a2547413b99ea31cbb64cf3b7c85923ac4c595b21015c8a70cd590b0` | `562e02aa8c2e3a2c11c1e2362417d9010139a2c7d4cbd15a01c9e70db47af589` | `2026-05-28_prem-shomachar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
